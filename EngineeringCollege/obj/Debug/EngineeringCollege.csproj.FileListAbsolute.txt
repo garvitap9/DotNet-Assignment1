@@ -1,0 +1,7 @@
+D:\DotNetAssignment1\EngineeringCollege\bin\Debug\EngineeringCollege.exe.config
+D:\DotNetAssignment1\EngineeringCollege\bin\Debug\EngineeringCollege.exe
+D:\DotNetAssignment1\EngineeringCollege\bin\Debug\EngineeringCollege.pdb
+D:\DotNetAssignment1\EngineeringCollege\obj\Debug\EngineeringCollege.csproj.AssemblyReference.cache
+D:\DotNetAssignment1\EngineeringCollege\obj\Debug\EngineeringCollege.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment1\EngineeringCollege\obj\Debug\EngineeringCollege.exe
+D:\DotNetAssignment1\EngineeringCollege\obj\Debug\EngineeringCollege.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetAssignment1\\EngineeringCollege\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|d:\\dotnetassignment1\\engineeringcollege\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|d:\\dotnetassignment1\\engineeringcollege\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|solutionrelative:professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|d:\\dotnetassignment1\\engineeringcollege\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|d:\\dotnetassignment1\\engineeringcollege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5D4E7F-6EE8-4A24-A7E0-5944355EEAF1}|EngineeringCollege.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DotNetAssignment1\\EngineeringCollege\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\DotNetAssignment1\\EngineeringCollege\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:54:58.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\DotNetAssignment1\\EngineeringCollege\\Professor.cs",
+              "RelativeDocumentMoniker": "Professor.cs",
+              "ToolTip": "D:\\DotNetAssignment1\\EngineeringCollege\\Professor.cs",
+              "RelativeToolTip": "Professor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:54:14.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DotNetAssignment1\\EngineeringCollege\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\DotNetAssignment1\\EngineeringCollege\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:54:02.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetAssignment1\\EngineeringCollege\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNetAssignment1\\EngineeringCollege\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:52:28.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
