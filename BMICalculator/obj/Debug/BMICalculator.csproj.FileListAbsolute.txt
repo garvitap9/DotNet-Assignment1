@@ -1,0 +1,7 @@
+D:\DotNetAssignment1\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+D:\DotNetAssignment1\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment1\BMICalculator\bin\Debug\BMICalculator.exe.config
+D:\DotNetAssignment1\BMICalculator\bin\Debug\BMICalculator.exe
+D:\DotNetAssignment1\BMICalculator\bin\Debug\BMICalculator.pdb
+D:\DotNetAssignment1\BMICalculator\obj\Debug\BMICalculator.exe
+D:\DotNetAssignment1\BMICalculator\obj\Debug\BMICalculator.pdb
